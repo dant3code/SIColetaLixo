@@ -1,0 +1,2 @@
+# SIColetaLixo
+Projeto SICOLETALIXO (Avaliação)
