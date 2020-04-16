@@ -1,1 +1,1 @@
-Readme
+Nessa pasta tem a documentação da Proposta Coleta Lixo
